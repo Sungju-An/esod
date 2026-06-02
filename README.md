@@ -1,3 +1,4 @@
+
 # ESOD: Efficient Small Object Detection on High-Resolution Images
 
 This repository is the offical implementation of [**Efficient Small Object Detection on High-Resolution Images**](https://arxiv.org/abs/2407.16424).
